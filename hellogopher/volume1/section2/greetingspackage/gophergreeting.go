@@ -4,7 +4,7 @@ import "fmt"
 
 var MagicNumber int
 
-func GopherGrettings() {
+func GopherGreetings() {
 	fmt.Println("A very jolly hello my fellow gophers! I'm printing from the GopherGreetings() fucntion")
 	printGreetingsUnexported()
 }

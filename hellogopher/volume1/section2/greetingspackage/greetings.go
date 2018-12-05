@@ -6,6 +6,6 @@ func PrintGreetings() {
 	fmt.Println("I'm printing a message from the PrintGreetings() function!")
 }
 
-func printGreatingsUnexported() {
+func printGreetingsUnexported() {
 	fmt.Println("I'm printing a message from the printGreetingsUnexported() function!")
 }
