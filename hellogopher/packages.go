@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/casonadams/go-tutorial/hellogohper/volume1/section2/grettingspacakge"
+	"github.com/casonadams/go-tutorial/hellogohper/volume1/section2/greetingspackage"
 )
 
 func main() {
