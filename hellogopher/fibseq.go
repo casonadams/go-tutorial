@@ -8,6 +8,7 @@ var previous int = 0
 var current int = 0
 
 func main() {
+	// fib should always start with a 0 or 1
 	fib(0, 100000)
 }
 
