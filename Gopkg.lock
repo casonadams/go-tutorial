@@ -3,11 +3,11 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:27fb17680e542ea55346b6088569524bb4f4e4ba0f57a0361121bd746ab00ce7"
+  digest = "1:6d897bbb60bea2075c7d0b9494870e7af852cbc44ca68377572096eb0f1a4773"
   name = "github.com/casonadams/shapes"
   packages = ["."]
   pruneopts = ""
-  revision = "0219b36c9d401a4e3f7936dcb5926a17387cd69d"
+  revision = "1cc5a4da34e48c3b3b558fb66fb8b5442b7445bb"
 
 [solve-meta]
   analyzer-name = "dep"
